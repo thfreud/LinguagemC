@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ee5a4d25-c4ff-4e1e-8029-3aef2ae9d5f7" name="myserver" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\ClionServer" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
