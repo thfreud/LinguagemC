@@ -1,0 +1,3 @@
+C:/Users/thoma/CLionProjects/ProjetoZeta/cmake-build-debug/CMakeFiles/ProjetoZeta.dir
+C:/Users/thoma/CLionProjects/ProjetoZeta/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/thoma/CLionProjects/ProjetoZeta/cmake-build-debug/CMakeFiles/rebuild_cache.dir
